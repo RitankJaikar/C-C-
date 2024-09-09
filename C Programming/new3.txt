@@ -1,0 +1,2 @@
+Employee 1:- Name:Ritank Salary:786
+Employee 2:- Name:Jaikar Salary:325
